@@ -1,0 +1,24 @@
+title = "Fierce and HortonWorks"
+baseURL = "http://endosys-fierce.giithub.io/"
+theme = "endosys-fierce"
+languageCode = "en-us"
+metaDataFormat = "yaml"
+
+[params]
+    description = "Fierce Software and HortonWorks"
+
+[taxonomies]
+    workshop = "workshops"
+
+[blackfriday]
+    smartypants = false
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Workshops"
+    identifier = "workshops"
+    weight = 100
