@@ -23,9 +23,11 @@ If you have content that you'd like to contribute, check out our
 ---
 
 This site was cloned and modified from the following repo:
+
 [redhatgov]: http://redhatgov.github.io/
 
 ---
 
 Reference:
+
 [hugo]: https://gohugo.io/overview/introduction/
