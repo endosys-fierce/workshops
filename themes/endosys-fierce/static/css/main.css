@@ -19,7 +19,7 @@ figure {
 }
 
 .jumbotron-home {
-  background-color: #cc0000;
+  background: linear-gradient(to right,  #aee496 0%,#60ab3f 100%);
   color: #ffffff;
 }
 
