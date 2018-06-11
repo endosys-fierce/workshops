@@ -1,12 +1,12 @@
 ---
 title: Lab 1 - Welcome
-workshops: openshift_101_dcmetromap
+workshops: data_science_101
 workshop_weight: 11
 layout: lab
 ---
 
-# Welcome to OpenShift!
-This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of OpenShift simply ensure you can login and create the project.
+# Welcome to HortonWorks Machine Learning!
+This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of Machine Learning simply ensure you can login and create the project.
 
 # Key Terms
 We will be using the following terms throughout the workshop labs so here are some basic definitions you should be familiar with.  You'll learn more terms along the way, but these are the basics to get you started.
