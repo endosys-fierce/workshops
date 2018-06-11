@@ -1,6 +1,6 @@
 ---
 title: Lab 6 - Replication and Recovery
-workshops: openshift_101_dcmetromap
+workshops: hdf_101
 workshop_weight: 16
 layout: lab
 ---

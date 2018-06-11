@@ -1,6 +1,6 @@
 ---
 title: Lab 4 - Developing and Managing Your Application
-workshops: openshift_101_dcmetromap
+workshops: data_science_101
 workshop_weight: 14
 layout: lab
 ---

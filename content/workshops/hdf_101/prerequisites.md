@@ -1,6 +1,6 @@
 ---
 title: Verify Prerequisites
-workshops: openshift_101_dcmetromap
+workshops: hdf_101
 workshop_weight: 0
 layout: lab
 ---

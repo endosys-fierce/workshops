@@ -10,7 +10,7 @@ layout: lab
 
 
 {{% alert success %}}
-This workshop is done entierly through the browser.
+This workshop is done entirely through the browser.
 {{% /alert %}}
 
 ## Create a Github account

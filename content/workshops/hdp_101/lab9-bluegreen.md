@@ -1,6 +1,6 @@
 ---
 title: Lab 9 - Blue | Green Deployment
-workshops: openshift_101_dcmetromap
+workshops: hdp_101
 workshop_weight: 19
 layout: lab
 ---

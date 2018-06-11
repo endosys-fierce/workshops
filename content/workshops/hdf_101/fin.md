@@ -1,6 +1,6 @@
 ---
 title: Fin.
-workshops: openshift_101_dcmetromap
+workshops: hdf_101
 workshop_weight: 20
 layout: lab
 ---

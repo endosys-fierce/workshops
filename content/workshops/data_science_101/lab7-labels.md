@@ -1,6 +1,6 @@
 ---
 title: Lab 7 - Labels
-workshops: openshift_101_dcmetromap
+workshops: data_science_101
 workshop_weight: 17
 layout: lab
 ---

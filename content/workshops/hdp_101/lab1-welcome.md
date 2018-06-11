@@ -1,6 +1,6 @@
 ---
 title: Lab 1 - Welcome
-workshops: openshift_101_dcmetromap
+workshops: hdp_101
 workshop_weight: 11
 layout: lab
 ---

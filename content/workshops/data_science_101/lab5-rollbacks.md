@@ -1,6 +1,6 @@
 ---
 title: Lab 5 - Webhooks and Rollbacks
-workshops: openshift_101_dcmetromap
+workshops: data_science_101
 workshop_weight: 15
 layout: lab
 ---

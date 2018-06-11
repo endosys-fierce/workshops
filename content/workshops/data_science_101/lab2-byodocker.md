@@ -1,6 +1,6 @@
 ---
 title: Lab 2 - BYO Docker
-workshops: openshift_101_dcmetromap
+workshops: data_science_101
 workshop_weight: 12
 layout: lab
 ---

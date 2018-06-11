@@ -1,6 +1,6 @@
 ---
 title: Lab 3 - Deploying an App with S2I
-workshops: openshift_101_dcmetromap
+workshops: hdf_101
 workshop_weight: 13
 layout: lab
 ---
