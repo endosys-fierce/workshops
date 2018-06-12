@@ -9,11 +9,15 @@
 
 If you want to build this site right away:
 
-##### You have a working [Hugo environment][hugo].
 
-    $ git clone https://github.com/endosys-fierce/endosys-fierce.github.io
-    $ cd endosys-fierce.github.io
-    $ hugo server
+- You have a working [Hugo environment][hugo].
+- You have Ruby and the asciidoctor gem installed (*gem install asciidoctor*)
+
+    `$ git clone https://github.com/endosys-fierce/workshop`
+
+    `$ cd workshop`
+
+    `$ hugo server`
 
 ## Contributing
 

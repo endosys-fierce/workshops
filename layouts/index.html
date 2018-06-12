@@ -1,8 +1,10 @@
 {{ .Scratch.Set "BodyClass" "cards-pf" }}{{ partial "header" . }}
 
-<div class="jumbotron jumbotron-home text-center">
+<div id="particles" class="particle_inside jumbotron-home jumbotron text-center">
+  <div id="introoo" class="inside-pages">
   <h1>{{ .Site.Title }}</h1>
   <h2>{{ .Site.Params.Description }}</h2>
+</div>
 </div>
 
 <div class="container container-cards-pf">
@@ -39,6 +41,25 @@
       window.location.href = $('a.view-workshop-url', this).attr('href');
     });
   });
+</script>
+
+<script src="{{ "/js/jquery.particleground.min.js" }}"></script>
+<script type="text/javascript">
+<!--
+document.addEventListener('DOMContentLoaded', function () {
+  particleground(document.getElementById('particles'), {
+    dotColor: '#30551f',
+    lineColor: '#30551f',
+	particleRadius: 10,
+	minSpeedX: 0.3,
+	minSpeedY: 0.3,
+
+    density: 10000
+  });
+  //var intro = document.getElementById('introoo');
+  //intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
+}, false);
+-->
 </script>
 
 {{ partial "footer" . }}

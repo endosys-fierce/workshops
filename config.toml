@@ -1,11 +1,12 @@
-title = "Fierce and HortonWorks"
-baseURL = "https://fierce-hwx.endosys.io/"
+title = "Hortonworks Workshops"
+# Removing the baseURL allows for local development (loads the assets properly)
+# baseURL = "https://fierce-hwx.endosys.io/"
 theme = "endosys-fierce"
 languageCode = "en-us"
 metaDataFormat = "yaml"
 
 [params]
-    description = "Fierce Software and HortonWorks"
+    description = "Brought to you by Fierce Software"
 
 [taxonomies]
     workshop = "workshops"
