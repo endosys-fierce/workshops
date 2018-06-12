@@ -1,6 +1,6 @@
 ---
 title: Login Tour - Wetty
-workshops: hdf_101
+workshops: hdp_101
 workshop_weight: 10
 layout: lab
 ---
@@ -28,7 +28,6 @@ After logging in, you should see a shell.
 
 <img src="../images/wetty.png" width="1000" />
 
-The wetty instance will already have the 'oc' command installed on them. The 'oc' command is used to connect to the OpenShift Master. 
 
 {{< importPartial "footer/footer.html" >}}
 

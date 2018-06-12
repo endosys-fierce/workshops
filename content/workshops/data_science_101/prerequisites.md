@@ -1,6 +1,6 @@
 ---
 title: Verify Prerequisites
-workshops: data_science_101
+workshops: hdp_101
 workshop_weight: 0
 layout: lab
 ---
@@ -10,7 +10,7 @@ layout: lab
 
 
 {{% alert success %}}
-This workshop is done entirely through the browser.
+This workshop is done entierly through the browser, but you do need a free personal GitHub account. 
 {{% /alert %}}
 
 ## Create a Github account
@@ -20,8 +20,8 @@ If you don't have a person GitHub account please sign up [here][6] to create a f
 * [Download Git Client (optional)][8]
 
 
-[1]: https://docs.openshift.com/enterprise/latest/cli_reference/get_started_cli.html
-[2]: https://github.com/openshift/origin/releases
+[1]: https://hortonworks.com/products/data-platforms/hdp/
+[2]: https://hortonworks.com/products/sandbox/
 [3]: http://brew.sh/
 [4]: http://git-scm.com/downloads
 [6]: https://github.com/join?source=header-home
