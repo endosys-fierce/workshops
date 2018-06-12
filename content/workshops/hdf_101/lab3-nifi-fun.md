@@ -1,6 +1,6 @@
 ---
 title: Lab 3 - Exploring NiFi
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 13
 layout: lab
 ---

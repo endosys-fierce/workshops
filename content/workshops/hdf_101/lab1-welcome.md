@@ -1,6 +1,6 @@
 ---
 title: Lab 1 - Welcome
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 11
 layout: lab
 ---

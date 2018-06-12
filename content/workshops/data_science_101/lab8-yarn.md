@@ -1,6 +1,6 @@
 ---
 title: Lab 8 - YARN
-workshops: hdp_101
+workshops: data_science_101
 workshop_weight: 17
 layout: lab
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lab 4 - HDP Views
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 14
 layout: lab
 ---

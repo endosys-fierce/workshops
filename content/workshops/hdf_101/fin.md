@@ -1,6 +1,6 @@
 ---
 title: Fin.
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 20
 layout: lab
 ---

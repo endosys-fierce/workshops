@@ -1,6 +1,6 @@
 ---
 title: Lab 5 - Hive
-workshops: hdp_101
+workshops: data_science_101
 workshop_weight: 15
 layout: lab
 ---

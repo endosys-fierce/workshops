@@ -1,6 +1,6 @@
 ---
 title: Verify Prerequisites
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 0
 layout: lab
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lab 7 - Ambari
-workshops: hdp_101
+workshops: hdf_101
 workshop_weight: 17
 layout: lab
 ---

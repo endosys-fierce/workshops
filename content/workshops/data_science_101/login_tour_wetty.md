@@ -1,6 +1,6 @@
 ---
 title: Login Tour - Wetty
-workshops: hdp_101
+workshops: data_science_101
 workshop_weight: 10
 layout: lab
 ---
